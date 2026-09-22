@@ -1,4 +1,4 @@
-# Muhammed Ali Halbutogullari
+# Muhammed Ali
 
 Forward Deployed Engineer at Risely AI (YC S25).
 
